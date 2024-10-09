@@ -1,2 +1,2 @@
-# proyecto24-gc03
-proyecto24-gc03 created by GitHub Classroom
+# Streamhub
+La mejor app para visualización de contenidos audiovisuales.
